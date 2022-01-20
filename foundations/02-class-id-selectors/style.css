@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+.odd{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #f7437959;
+}
+#line2{
+    color: #330f97;
+    font-size: 36px;
+}
+.fib{
+    font-size: 24px;
+}
+#line4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #2b7a4b;
+}
